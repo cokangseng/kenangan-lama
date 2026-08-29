@@ -6,7 +6,7 @@
     <head>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
-	<link rel="canonical" href="https://femkerites.hu/" />
+	<link rel="canonical" href="https://www.edim.org/" />
 	<link href="https://apk.kotalandak.store/" rel="amphtml"/>
     <link rel="alternate" hreflang="id-id" href="https://apk.kotalandak.store/"/>
     <link rel="alternate" href="https://apk.kotalandak.store/"/>
@@ -23,7 +23,7 @@
 	<title>LANDAKTOTO – Apk Edim Situs Slot Gacor & Slot88 Server Asia Terbaik 2026</title>
 	<meta name="description" content="LANDAKTOTO hadir sebagai pilihan platform dengan informasi APK FEMKERITES, situs slot gacor, dan SLOT88 server Asia terbaik 2026." />
 	<meta property="og:site_name" content="LANDAKTOTO" />
-	<meta property="og:url" content="https://femkerites.hu/" />
+	<meta property="og:url" content="https://www.edim.org/" />
 	<meta property="og:title" content="LANDAKTOTO – Apk Edim Situs Slot Gacor & Slot88 Server Asia Terbaik 2026" />
 	<meta property="og:type" content="product" />
 	<meta property="og:description" content="LANDAKTOTO hadir sebagai pilihan platform dengan informasi APK FEMKERITES, situs slot gacor, dan SLOT88 server Asia terbaik 2026." />
@@ -130,7 +130,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "url": "https://femkerites.hu/",
+  "url": "https://www.edim.org/",
   "name": "LANDAKTOTO – Apk Edim Situs Slot Gacor & Slot88 Server Asia Terbaik 2026",
   "sku": "3215487804",
   "description": "LANDAKTOTO hadir sebagai pilihan platform dengan informasi APK FEMKERITES, situs slot gacor, dan SLOT88 server Asia terbaik 2026.",
@@ -253,55 +253,55 @@
       "@type": "ListItem",
       "position": 1,
       "name": "LANDAKTOTO",
-      "item": "https://femkerites.hu/"
+      "item": "https://www.edim.org/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "LANDAKTOTO LINK",
-      "item": "https://femkerites.hu/"
+      "item": "https://www.edim.org/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "RTP LIVE",
-      "item": "https://femkerites.hu/"
+      "item": "https://www.edim.org/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "BONUS 100%",
-      "item": "https://femkerites.hu/"
+      "item": "https://www.edim.org/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "DEPOSIT 5000",
-      "item": "https://femkerites.hu/"
+      "item": "https://www.edim.org/"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "WD CEPAT",
-      "item": "https://femkerites.hu/"
+      "item": "https://www.edim.org/"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "SLOT GACOR HARI INI",
-      "item": "https://femkerites.hu/"
+      "item": "https://www.edim.org/"
     },
     {
       "@type": "ListItem",
       "position": 8,
       "name": "SLOT GACOR RESMI",
-      "item": "https://femkerites.hu/"
+      "item": "https://www.edim.org/"
     },
     {
       "@type": "ListItem",
       "position": 9,
       "name": "LANDAKTOTO – Apk Edim Situs Slot Gacor & Slot88 Server Asia Terbaik 2026",
-      "item": "https://femkerites.hu/"
+      "item": "https://www.edim.org/"
     }
   ]
 }
@@ -313,27 +313,27 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://femkerites.hu/#org",
+      "@id": "https://www.edim.org/#org",
       "name": "LANDAKTOTO",
-      "url": "https://femkerites.hu/",
+      "url": "https://www.edim.org/",
       "logo": "https://imgkita.com/images/4c5a573a-5868-4d04-a45d-1f2da0fbaba4.jpg"
     },
     {
       "@type": "WebSite",
-      "@id": "https://femkerites.hu/#website",
-      "url": "https://femkerites.hu/",
+      "@id": "https://www.edim.org/#website",
+      "url": "https://www.edim.org/",
       "name": "SLOT GACOR HARI INI",
-      "publisher": { "@id": "https://femkerites.hu/#org" },
+      "publisher": { "@id": "https://www.edim.org/#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://femkerites.hu/?s={search_term_string}",
+        "target": "https://www.edim.org/?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://femkerites.hu/#app",
+      "@id": "https://www.edim.org/#app",
       "name": "SLOT GACOR",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
@@ -397,10 +397,10 @@
 }
 </script>
 <div data-nosnippet="true" style="display:none;">
-    <a href="https://femkerites.hu/">LANDAKTOTO</a>
-    <a href="https://femkerites.hu/">SLOT GACOR HARI INI</a>
-    <a href="https://femkerites.hu/">LINK SLOT RESMI</a>
-    <a href="https://femkerites.hu/">SLOT THAILAND</a>
+    <a href="https://www.edim.org/">LANDAKTOTO</a>
+    <a href="https://www.edim.org/">SLOT GACOR HARI INI</a>
+    <a href="https://www.edim.org/">LINK SLOT RESMI</a>
+    <a href="https://www.edim.org/">SLOT THAILAND</a>
   
   </div>
       <script integrity="sha256-52AcMU7V7pcBOXWImdc/TAGTFKeNjmkeM1Pvks/DTgc=" data-source-attribution="shopify.loadfeatures" defer src="//www.istudiosg.com/cdn/shopifycloud/storefront/assets/storefront/load_feature-81c60534.js" crossorigin="anonymous"></script>
@@ -1262,7 +1262,7 @@
                </script>
                <div class="header__heading">
                   <div class="brand--logo">
-                     <a href="https://femkerites.hu/" target="_blank" rel="nofollow noopener noreferrer" class="header__heading-link link link--text focus-inset" aria-label="Home">
+                     <a href="https://www.edim.org/" target="_blank" rel="nofollow noopener noreferrer" class="header__heading-link link link--text focus-inset" aria-label="Home">
                         <div class="ratio" style="--ratio-percent: 25.875000000000004%">
                            <img
                               src="https://landaktoto.dataklmsad903.site/images/setting-logo/1/SqPt4TYy6QGzXvR3.webp"
@@ -1527,7 +1527,7 @@
                                  class="mainMenuUpdate2"
                                  >
                                  <summary id="headerCss HeaderMenu-mac" class="header__menu-item list-menu__item link focus-inset" role="button" aria-expanded="false" aria-controls="HeaderMenu-MenuList-1">
-                                    <p><a href="https://femkerites.hu/">LANDAKTOTO</a></p>
+                                    <p><a href="https://www.edim.org/">LANDAKTOTO</a></p>
                                     <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
                                     </path></svg>
@@ -1547,7 +1547,7 @@
                                  class="mainMenuUpdate2"
                                  >
                                  <summary id="headerCss HeaderMenu-ipad" class="header__menu-item list-menu__item link focus-inset" role="button" aria-expanded="false" aria-controls="HeaderMenu-MenuList-2">
-                                   <p><a href="https://femkerites.hu/">SLOT</a></p>
+                                   <p><a href="https://www.edim.org/">SLOT</a></p>
                                     <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
                                     </path></svg>
@@ -1567,7 +1567,7 @@
                                  class="mainMenuUpdate2"
                                  >
                                  <summary id="headerCss HeaderMenu-iphone" class="header__menu-item list-menu__item link focus-inset" role="button" aria-expanded="false" aria-controls="HeaderMenu-MenuList-3">
-                                    <p><a href="https://femkerites.hu/">SLOT GACOR</a></p>
+                                    <p><a href="https://www.edim.org/">SLOT GACOR</a></p>
                                     <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
                                     </path></svg>
@@ -1587,7 +1587,7 @@
                                  class="mainMenuUpdate2"
                                  >
                                  <summary id="headerCss HeaderMenu-watch" class="header__menu-item list-menu__item link focus-inset" role="button" aria-expanded="false" aria-controls="HeaderMenu-MenuList-4">
-                                    <p><a href="https://femkerites.hu/">SITUS SLOT</a></p>
+                                    <p><a href="https://www.edim.org/">SITUS SLOT</a></p>
                                     <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
                                     </path></svg>
@@ -1607,7 +1607,7 @@
                                  class="mainMenuUpdate2"
                                  >
                                  <summary id="headerCss HeaderMenu-music" class="header__menu-item list-menu__item link focus-inset" role="button" aria-expanded="false" aria-controls="HeaderMenu-MenuList-5">
-                                    <p><a href="https://femkerites.hu/">LINK SLOT GACOR</a></p>
+                                    <p><a href="https://www.edim.org/">LINK SLOT GACOR</a></p>
                                     <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
                                     </path></svg>
@@ -1627,7 +1627,7 @@
                                  class="mainMenuUpdate2"
                                  >
                                  <summary id="headerCss HeaderMenu-tv-home" class="header__menu-item list-menu__item link focus-inset" role="button" aria-expanded="false" aria-controls="HeaderMenu-MenuList-6">
-                                   <p><a href="https://femkerites.hu/">SITUS SLOT GACOR</a></p>
+                                   <p><a href="https://www.edim.org/">SITUS SLOT GACOR</a></p>
                                     <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
                                     </path></svg>
@@ -1647,7 +1647,7 @@
                                  class="mainMenuUpdate2"
                                  >
                                  <summary id="headerCss HeaderMenu-accessories" class="header__menu-item list-menu__item link focus-inset" role="button" aria-expanded="false" aria-controls="HeaderMenu-MenuList-7">
-                                    <p><a href="https://femkerites.hu/">SLOT GACOR HARI INI</a></p>
+                                    <p><a href="https://www.edim.org/">SLOT GACOR HARI INI</a></p>
                                     <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
                                     </path></svg>
@@ -1667,7 +1667,7 @@
                                  class="mainMenuUpdate2"
                                  >
                                  <summary id="headerCss HeaderMenu-services" class="header__menu-item list-menu__item link focus-inset" role="button" aria-expanded="false" aria-controls="HeaderMenu-MenuList-8">
-                                    <p><a href="https://femkerites.hu/">SLOT GACOR GAMPANG MENANG</a></p>
+                                    <p><a href="https://www.edim.org/">SLOT GACOR GAMPANG MENANG</a></p>
                                     <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
                                     </path></svg>
@@ -1687,7 +1687,7 @@
                                  class="mainMenuUpdate2"
                                  >
                                  <summary id="headerCss HeaderMenu-offers" class="header__menu-item list-menu__item link focus-inset" role="button" aria-expanded="false" aria-controls="HeaderMenu-MenuList-9">
-                                    <p><a href="https://femkerites.hu/">SLOT RESMI</a></p>
+                                    <p><a href="https://www.edim.org/">SLOT RESMI</a></p>
                                     <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
                                     </path></svg>
@@ -1734,7 +1734,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "SLOT",
-  "url": "https://femkerites.hu/",
+  "url": "https://www.edim.org/",
   "sameAs": [
     "https://www.facebook.com/SLOT",
     "https://www.instagram.com/SLOT/",
@@ -1792,7 +1792,7 @@
          <div class="nav-left-arrow"></div>
          <div class="apl_lob_slider without_main_title apl_lob_slider-ipad">
             <div class="apl_lob_list_item">
-               <a href="https://femkerites.hu/" target="_blank" rel="nofollow noopener noreferrer">
+               <a href="https://www.edim.org/" target="_blank" rel="nofollow noopener noreferrer">
                   <div class="list-lob">
                      <div
                         class="imagecontainer ratio"
@@ -1824,7 +1824,7 @@
                </a>
             </div>
             <div class="apl_lob_list_item">
-               <a href="https://femkerites.hu/" target="_blank" rel="nofollow noopener noreferrer">
+               <a href="https://www.edim.org/" target="_blank" rel="nofollow noopener noreferrer">
                   <div class="list-lob">
                      <div
                         class="imagecontainer ratio"
@@ -1856,7 +1856,7 @@
                </a>
             </div>
             <div class="apl_lob_list_item">
-               <a href="https://femkerites.hu/" target="_blank" rel="nofollow noopener noreferrer">
+               <a href="https://www.edim.org/" target="_blank" rel="nofollow noopener noreferrer">
                   <div class="list-lob">
                      <div
                         class="imagecontainer ratio"
@@ -1888,7 +1888,7 @@
                </a>
             </div>
             <div class="apl_lob_list_item">
-               <a href="https://femkerites.hu/" target="_blank" rel="nofollow noopener noreferrer">
+               <a href="https://www.edim.org/" target="_blank" rel="nofollow noopener noreferrer">
                   <div class="list-lob">
                      <div
                         class="imagecontainer ratio"
@@ -1920,7 +1920,7 @@
                </a>
             </div>
             <div class="apl_lob_list_item">
-               <a href="https://femkerites.hu/" target="_blank" rel="nofollow noopener noreferrer">
+               <a href="https://www.edim.org/" target="_blank" rel="nofollow noopener noreferrer">
                   <div class="list-lob">
                      <div
                         class="imagecontainer ratio"
@@ -1949,7 +1949,7 @@
                </a>
             </div>
             <div class="apl_lob_list_item">
-               <a href="https://femkerites.hu/" target="_blank" rel="nofollow noopener noreferrer">
+               <a href="https://www.edim.org/" target="_blank" rel="nofollow noopener noreferrer">
                   <div class="list-lob">
                      <div
                         class="imagecontainer ratio"
@@ -1981,7 +1981,7 @@
                </a>
             </div>
 			<div class="apl_lob_list_item">
-               <a href="https://femkerites.hu/" target="_blank" rel="nofollow noopener noreferrer">
+               <a href="https://www.edim.org/" target="_blank" rel="nofollow noopener noreferrer">
                   <div class="list-lob">
                      <div
                         class="imagecontainer ratio"
@@ -2013,7 +2013,7 @@
                </a>
             </div>
 			<div class="apl_lob_list_item">
-               <a href="https://femkerites.hu/" target="_blank" rel="nofollow noopener noreferrer">
+               <a href="https://www.edim.org/" target="_blank" rel="nofollow noopener noreferrer">
                   <div class="list-lob">
                      <div
                         class="imagecontainer ratio"
@@ -2045,7 +2045,7 @@
                </a>
             </div>
             <div class="apl_lob_list_item end_lob_text">
-               <a href="https://femkerites.hu/" target="_blank" rel="nofollow noopener noreferrer" class="end_lob_title">
+               <a href="https://www.edim.org/" target="_blank" rel="nofollow noopener noreferrer" class="end_lob_title">
                   <span class="end_title_anchor">
                      View All iPhone
                      <svg width="5" height="9" viewBox="0 0 5 9" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -3391,7 +3391,7 @@
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "LANDAKTOTO – Apk Edim Situs Slot Gacor & Slot88 Server Asia Terbaik 2026",
-  "url": "https://femkerites.hu/",
+  "url": "https://www.edim.org/",
   "image": [
     "https://imgkita.com/images/4c5a573a-5868-4d04-a45d-1f2da0fbaba4.jpg"
   ],
@@ -3409,7 +3409,7 @@
       "availability": "https://schema.org/OutOfStock",
       "price": 300.00,
       "priceCurrency": "USD",
-      "url": "https://femkerites.hu/"
+      "url": "https://www.edim.org/"
     }
   ]
 }
@@ -3833,11 +3833,11 @@
   <p style="position: relative; z-index: 2;">
 </p><div class="product-title-style product__title">
 <h1 style="text-align: center;">LANDAKTOTO – Apk Edim Situs Slot Gacor & Slot88 Server Asia Terbaik 2026</h1>
-<p style="text-align: justify;"><a href="https://femkerites.hu/"><strong>LANDAKTOTO</strong></a> hadir sebagai platform dengan konsep <strong><a href="https://femkerites.hu/">Apk Edim Situs Slot Gacor & Slot88 Server Asia Terbaik 2026</a></strong> Mmenghadirkan akses informasi permainan online dengan tampilan modern, ringan, dan mudah digunakan. Platform ini dirancang agar pengguna dapat menjelajahi berbagai informasi seputar permainan slot melalui perangkat desktop maupun mobile.</p>
+<p style="text-align: justify;"><a href="https://www.edim.org/"><strong>LANDAKTOTO</strong></a> hadir sebagai platform dengan konsep <strong><a href="https://www.edim.org/">Apk Edim Situs Slot Gacor & Slot88 Server Asia Terbaik 2026</a></strong> Mmenghadirkan akses informasi permainan online dengan tampilan modern, ringan, dan mudah digunakan. Platform ini dirancang agar pengguna dapat menjelajahi berbagai informasi seputar permainan slot melalui perangkat desktop maupun mobile.</p>
 
-<p style="text-align: justify;">Melalui konsep Apk Edim, <strong><a href="https://femkerites.hu/">LANDAKTOTO</a></strong> mengutamakan pengalaman akses yang praktis dengan navigasi yang sederhana. Informasi mengenai Situs Slot Gacor dan Slot88 Server Asia disusun secara terstruktur sehingga pengguna dapat menemukan berbagai kategori permainan dan informasi pendukung dengan lebih nyaman. LANDAKTOTO juga mengusung tema Server Asia Terbaik 2026 dengan menghadirkan tampilan platform yang responsif serta menyesuaikan kebutuhan pengguna masa kini. Beragam informasi permainan dapat diakses secara fleksibel, sementara desain yang sederhana membantu memberikan pengalaman browsing yang lebih efisien.</p>
+<p style="text-align: justify;">Melalui konsep Apk Edim, <strong><a href="https://www.edim.org/">LANDAKTOTO</a></strong> mengutamakan pengalaman akses yang praktis dengan navigasi yang sederhana. Informasi mengenai Situs Slot Gacor dan Slot88 Server Asia disusun secara terstruktur sehingga pengguna dapat menemukan berbagai kategori permainan dan informasi pendukung dengan lebih nyaman. LANDAKTOTO juga mengusung tema Server Asia Terbaik 2026 dengan menghadirkan tampilan platform yang responsif serta menyesuaikan kebutuhan pengguna masa kini. Beragam informasi permainan dapat diakses secara fleksibel, sementara desain yang sederhana membantu memberikan pengalaman browsing yang lebih efisien.</p>
 
-<p style="text-align: justify;">Dengan menggabungkan konsep <strong><a href="https://femkerites.hu/">Apk Edim, Situs Slot Gacor, dan Slot88 Server Asia Terbaik 2026,</a></strong> LANDAKTOTO berusaha menjadi platform informatif yang mudah dikenali dan nyaman digunakan. Setiap informasi sebaiknya dipandang sebagai referensi, karena hasil permainan bersifat tidak pasti dan tidak ada situs atau strategi yang dapat menjamin kemenangan. LANDAKTOTO merupakan platform yang mengusung konsep Apk Edim Situs Slot Gacor & Slot88 Server Asia Terbaik 2026 dengan menghadirkan tampilan modern dan akses yang praktis. Informasi mengenai permainan online disusun secara rapi sehingga lebih mudah dipahami oleh pengunjung dari berbagai perangkat.</p>
+<p style="text-align: justify;">Dengan menggabungkan konsep <strong><a href="https://www.edim.org/">Apk Edim, Situs Slot Gacor, dan Slot88 Server Asia Terbaik 2026,</a></strong> LANDAKTOTO berusaha menjadi platform informatif yang mudah dikenali dan nyaman digunakan. Setiap informasi sebaiknya dipandang sebagai referensi, karena hasil permainan bersifat tidak pasti dan tidak ada situs atau strategi yang dapat menjamin kemenangan. LANDAKTOTO merupakan platform yang mengusung konsep Apk Edim Situs Slot Gacor & Slot88 Server Asia Terbaik 2026 dengan menghadirkan tampilan modern dan akses yang praktis. Informasi mengenai permainan online disusun secara rapi sehingga lebih mudah dipahami oleh pengunjung dari berbagai perangkat.</p>
   <style type="text/css">
          div.advertisement-placeholder {
              text-align: center;
@@ -4388,7 +4388,7 @@ document.querySelectorAll(".faq-slot88-q").forEach(btn => {
                      <ul class="footer-block__details-content list-unstyled">
                         <li>
                            <a
-                              href="https://femkerites.hu/" target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://www.edim.org/" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            LANDAKTOTO
@@ -4396,7 +4396,7 @@ document.querySelectorAll(".faq-slot88-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://femkerites.hu/" target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://www.edim.org/" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            SLOT
@@ -4404,7 +4404,7 @@ document.querySelectorAll(".faq-slot88-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://femkerites.hu/" target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://www.edim.org/" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            SLOT GACOR
@@ -4412,7 +4412,7 @@ document.querySelectorAll(".faq-slot88-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://femkerites.hu/" target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://www.edim.org/" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            SITUS SLOT
@@ -4420,7 +4420,7 @@ document.querySelectorAll(".faq-slot88-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://femkerites.hu/" target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://www.edim.org/" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            LINK SLOT GACOR
@@ -4428,7 +4428,7 @@ document.querySelectorAll(".faq-slot88-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://femkerites.hu/" target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://www.edim.org/" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            SITUS SLOT GACOR
@@ -4436,7 +4436,7 @@ document.querySelectorAll(".faq-slot88-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://femkerites.hu/" target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://www.edim.org/" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            SLOT GACOR HARI INI
@@ -4444,7 +4444,7 @@ document.querySelectorAll(".faq-slot88-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://femkerites.hu/" target="_blank"
+                              href="https://www.edim.org/" target="_blank"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            SLOT GACOR GAMPANG MENANG
@@ -4487,7 +4487,7 @@ document.querySelectorAll(".faq-slot88-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://femkerites.hu/" target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://www.edim.org/" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            SLOT GACOR
@@ -4726,7 +4726,7 @@ document.querySelectorAll(".faq-slot88-q").forEach(btn => {
                      <ul class="footer-block__details-content list-unstyled">
                         <li>
                            <a
-                              href="https://femkerites.hu/" target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://www.edim.org/" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            LANDAKTOTO
@@ -4734,7 +4734,7 @@ document.querySelectorAll(".faq-slot88-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://femkerites.hu/" target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://www.edim.org/" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            SLOT
@@ -4742,7 +4742,7 @@ document.querySelectorAll(".faq-slot88-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://femkerites.hu/" target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://www.edim.org/" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            SLOT GACOR
@@ -4750,7 +4750,7 @@ document.querySelectorAll(".faq-slot88-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://femkerites.hu/" target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://www.edim.org/" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            SITUS SLOT
@@ -4758,7 +4758,7 @@ document.querySelectorAll(".faq-slot88-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://femkerites.hu/" target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://www.edim.org/" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            LINK SLOT GACOR
@@ -4766,7 +4766,7 @@ document.querySelectorAll(".faq-slot88-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://femkerites.hu/" target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://www.edim.org/" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            SITUS SLOT GACOR
@@ -4774,7 +4774,7 @@ document.querySelectorAll(".faq-slot88-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://femkerites.hu/" target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://www.edim.org/" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            SLOT GACOR HARI INI
@@ -4782,7 +4782,7 @@ document.querySelectorAll(".faq-slot88-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://femkerites.hu/" target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://www.edim.org/" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            SLOT GACOR GAMPANG MENANG
@@ -4813,7 +4813,7 @@ document.querySelectorAll(".faq-slot88-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://femkerites.hu/" target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://www.edim.org/" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            SLOT RESMI
@@ -5131,7 +5131,7 @@ document.querySelectorAll(".faq-slot88-q").forEach(btn => {
                            </div>
                            <div class="copyrightCss footer__copyright caption">
                               <span class="copyright__content"
-                                 >&copy; 2025, <a href="https://femkerites.hu/" target="_blank" title="">LANDAKTOTO</a></span>
+                                 >&copy; 2025, <a href="https://www.edim.org/" target="_blank" title="">LANDAKTOTO</a></span>
                               <span class="copyright__content"><a target="_blank" rel="nofollow noopener noreferrer" href="https://www.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore">Powered by Shopify</a></span>
                            </div>
                         </div>
@@ -7306,7 +7306,7 @@ document.querySelectorAll(".faq-slot88-q").forEach(btn => {
                                                                <li>Proses Klaim Mudah & Cepat</li>
                                                             </ul>
                                                          </div>
-                                                         <a class="apple-care-modal__cta" href="https://femkerites.hu/" target="_blank" rel="nofollow noopener noreferrer">
+                                                         <a class="apple-care-modal__cta" href="https://www.edim.org/" target="_blank" rel="nofollow noopener noreferrer">
                                                          <span class="apple-care-modal__cta-text">Selengkapnya tentang Protection+ LANDAKTOTO</span>
                                                          <i class="fa-solid fa-angle-right billboard_icon"></i>
                                                          </a>
