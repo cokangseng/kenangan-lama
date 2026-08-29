@@ -22,7 +22,7 @@
 	<link rel="apple-touch-icon" sizes="180x180" href="https://anak-cungkok.pages.dev/fotofoto/favib.png">
 	<title>BONENGJITU – Akses Utama Bandar Situs Toto Macau & Togel Online 4D</title>
 	<meta name="description" content="BONENGJITU hadir sebagai akses utama menuju informasi situs Toto Macau dan togel online 4D dengan pilihan pasaran lengkap, informasi terbaru, serta pengalaman akses yang praktis." />
-	<meta property="og:site_name" content="LANDAKTOTO" />
+	<meta property="og:site_name" content="BONENGJITU" />
 	<meta property="og:url" content="https://wvw.pcv.mybluehost.me/" />
 	<meta property="og:title" content="BONENGJITU – Akses Utama Bandar Situs Toto Macau & Togel Online 4D" />
 	<meta property="og:type" content="product" />
@@ -137,15 +137,15 @@
   "image": [
     {
       "@type": "ImageObject",
-      "author": "LANDAKTOTO",
+      "author": "BONENGJITU",
       "contentUrl": "https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp",
       "thumbnailUrl": "https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp"
     }
   ],
-  "category": "Android Game < Landaktoto Macau < Landaktoto Macau Login",
+  "category": "Android Game < Bonengjitu Macau < Bonengjitu Macau Login",
   "brand": {
     "@type": "Brand",
-    "name": "LANDAKTOTO"
+    "name": "BONENGJITU"
   },
   "logo": "https://gambardunia.xyz/bonengjitu/logobng.webp",
   "aggregateRating": {
@@ -173,7 +173,7 @@
       "@type": "Review",
       "reviewRating": { "@type": "Rating", "ratingValue": 5, "bestRating": 5 },
       "datePublished": "2026-01-09",
-      "reviewBody": "Paito Macau 4D di LANDAKTOTO tampil rapi dan gampang dibaca, jadi enak buat analisa harian.",
+      "reviewBody": "Paito Macau 4D di BONENGJITU tampil rapi dan gampang dibaca, jadi enak buat analisa harian.",
       "author": { "@type": "Person", "name": "Sub Zero" }
     },
     {
@@ -194,7 +194,7 @@
       "@type": "Review",
       "reviewRating": { "@type": "Rating", "ratingValue": 5, "bestRating": 5 },
       "datePublished": "2026-01-12",
-      "reviewBody": "Update data LANDAKTOTO konsisten, jadi nggak khawatir pakai data lama.",
+      "reviewBody": "Update data BONENGJITU konsisten, jadi nggak khawatir pakai data lama.",
       "author": { "@type": "Person", "name": "Nandar Suherman" }
     }
   ]
@@ -228,7 +228,7 @@
     {
       "@type": "ListItem",
       "position": 1,
-      "name": "LANDAKTOTO",
+      "name": "BONENGJITU",
       "item": "https://wvw.pcv.mybluehost.me/"
     },
     {
@@ -292,7 +292,7 @@
     {
       "@type": "Organization",
       "@id": "https://wvw.pcv.mybluehost.me/#org",
-      "name": "LANDAKTOTO",
+      "name": "BONENGJITU",
       "url": "https://wvw.pcv.mybluehost.me/",
       "logo": "https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp"
     },
@@ -300,7 +300,7 @@
       "@type": "WebSite",
       "@id": "https://wvw.pcv.mybluehost.me/#website",
       "url": "https://wvw.pcv.mybluehost.me/",
-      "name": "LANDAKTOTO",
+      "name": "BONENGJITU",
       "publisher": { "@id": "https://wvw.pcv.mybluehost.me/#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
@@ -312,7 +312,7 @@
     {
       "@type": "SoftwareApplication",
       "@id": "https://wvw.pcv.mybluehost.me/#app",
-      "name": "LANDAKTOTO",
+      "name": "BONENGJITU",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
       "offers": { "@type": "Offer", "price": "0", "priceCurrency": "IDR" },
@@ -335,10 +335,10 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Apa itu event berhadiah Paito Macau 4D di LANDAKTOTO?",
+      "name": "Apa itu event berhadiah Paito Macau 4D di BONENGJITU?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Event ini merupakan program khusus LANDAKTOTO yang menghadirkan paito Macau 4D lengkap beserta prediksi angka untuk membantu analisa pemain."
+        "text": "Event ini merupakan program khusus BONENGJITU yang menghadirkan paito Macau 4D lengkap beserta prediksi angka untuk membantu analisa pemain."
       }
     },
     {
@@ -1461,7 +1461,7 @@
                               class="header__heading-logo company_logo ratio"
                               width="700"
                               height="200"
-                              alt="LANDAKTOTO"
+                              alt="BONENGJITU"
                               >
                         </div>
                      </a>
@@ -1504,7 +1504,7 @@
                               id="Search-In-Modal"
                               type="search"
                               name="q"
-                              value="LANDAKTOTO"
+                              value="BONENGJITU"
                               placeholder="Search"
                               aria-label="Search"role="combobox"
                               aria-expanded="false"
@@ -1728,7 +1728,7 @@
                                     id="headerCss HeaderMenu-mac"
                                     class="header__menu-item list-menu__item link focus-inset"
                                     >
-                                    <p><a href="https://wvw.pcv.mybluehost.me/">LANDAKTOTO</a></p>
+                                    <p><a href="https://wvw.pcv.mybluehost.me/">BONENGJITU</a></p>
                                     <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
                                     </svg>
@@ -1958,12 +1958,12 @@
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "LANDAKTOTO",
+  "name": "BONENGJITU",
   "url": "https://wvw.pcv.mybluehost.me/",
   "sameAs": [
-    "https://www.facebook.com/LANDAKTOTO",
-    "https://www.instagram.com/LANDAKTOTO/",
-    "https://www.youtube.com/channel/LANDAKTOTO/"
+    "https://www.facebook.com/BONENGJITU",
+    "https://www.instagram.com/BONENGJITU/",
+    "https://www.youtube.com/channel/BONENGJITU/"
   ]
 }
 </script>
@@ -2039,7 +2039,7 @@
                               NEW
                            </div>
                         </div>
-                        <p class="apl_lob_title">LANDAKTOTO</p>
+                        <p class="apl_lob_title">BONENGJITU</p>
                         <p class="prod apl_lob_price">
                            From
                            $777 SGD
@@ -2490,7 +2490,7 @@
                                           </svg>
                                        </div>
                                        <div class="product__media media media--transparent">
-                                          <img src="https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450055&amp;width=823" alt="LANDAKTOTO" srcset="https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450055&amp;width=246 246w, https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450055&amp;width=493 493w, https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450055&amp;width=600 600w, https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450055&amp;width=713 713w, https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450055&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+                                          <img src="https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450055&amp;width=823" alt="BONENGJITU" srcset="https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450055&amp;width=246 246w, https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450055&amp;width=493 493w, https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450055&amp;width=600 600w, https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450055&amp;width=713 713w, https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450055&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
                                        </div>
                                        <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="32122040189108">
                                        <span class="visually-hidden">
@@ -2538,7 +2538,7 @@
                                           </svg>
                                        </div>
                                        <div class="product__media media media--transparent">
-                                          <img src="https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450054&amp;width=823" alt="LANDAKTOTO Terpercaya" srcset="https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450054&amp;width=246 246w, https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450054&amp;width=493 493w, https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450054&amp;width=600 600w, https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450054&amp;width=713 713w, https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+                                          <img src="https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450054&amp;width=823" alt="BONENGJITU Terpercaya" srcset="https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450054&amp;width=246 246w, https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450054&amp;width=493 493w, https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450054&amp;width=600 600w, https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450054&amp;width=713 713w, https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
                                        </div>
                                        <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="32122040221876">
                                        <span class="visually-hidden">
@@ -2586,7 +2586,7 @@
                                           </svg>
                                        </div>
                                        <div class="product__media media media--transparent">
-                                          <img src="https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450054&amp;width=823" alt="Situs LANDAKTOTO" srcset="https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450054&amp;width=246 246w, https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450054&amp;width=493 493w, https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450054&amp;width=600 600w, https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450054&amp;width=713 713w, https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+                                          <img src="https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450054&amp;width=823" alt="Situs BONENGJITU" srcset="https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450054&amp;width=246 246w, https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450054&amp;width=493 493w, https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450054&amp;width=600 600w, https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450054&amp;width=713 713w, https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
                                        </div>
                                        <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="32122040254644">
                                        <span class="visually-hidden">
@@ -2634,7 +2634,7 @@
                                           </svg>
                                        </div>
                                        <div class="product__media media media--transparent">
-                                          <img src="https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450054&amp;width=823" alt="Link LANDAKTOTO Gampang Menang" srcset="https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450054&amp;width=246 246w, https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450054&amp;width=493 493w, https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450054&amp;width=600 600w, https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450054&amp;width=713 713w, https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+                                          <img src="https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450054&amp;width=823" alt="Link BONENGJITU Gampang Menang" srcset="https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450054&amp;width=246 246w, https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450054&amp;width=493 493w, https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450054&amp;width=600 600w, https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450054&amp;width=713 713w, https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
                                        </div>
                                        <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="32122040287412">
                                        <span class="visually-hidden">
@@ -3054,29 +3054,29 @@
                                  name="Model"
                                  data-option_count = "option2"
                                  data-label_name = "Model"
-                                 value="LANDAKTOTO"
+                                 value="BONENGJITU"
                                  form="product-form-template--17605519376564__main"
-                                 class="radio smart_radio varient_LANDAKTOTO"
-                                 data-varient="LANDAKTOTO"
+                                 class="radio smart_radio varient_BONENGJITU"
+                                 data-varient="BONENGJITU"
                                  data-color_present= no_color_present
                                  data-option_name= No-color                            
                                  checked
                                  />
-                              <label data-option= "no-color"  data-title="LANDAKTOTO" aria-label="Model LANDAKTOTO" data-noproduct="" class="title-tip iphone-17-prooption2" for="template--17605519376564__main-Model-0">
+                              <label data-option= "no-color"  data-title="BONENGJITU" aria-label="Model BONENGJITU" data-noproduct="" class="title-tip iphone-17-prooption2" for="template--17605519376564__main-Model-0">
                               TOTO MACAU
                               </label>
                               <input type="radio" id="template--17605519376564__main-Model-1"
                                  name="Model"
                                  data-option_count = "option2"
                                  data-label_name = "Model"
-                                 value="LANDAKTOTO Max"
+                                 value="BONENGJITU Max"
                                  form="product-form-template--17605519376564__main"
-                                 class="radio smart_radio varient_LANDAKTOTO Max"
-                                 data-varient="LANDAKTOTO Max"
+                                 class="radio smart_radio varient_BONENGJITU Max"
+                                 data-varient="BONENGJITU Max"
                                  data-color_present= no_color_present
                                  data-option_name= No-color                            
                                  />
-                              <label data-option= "no-color"  data-title="LANDAKTOTO Max" aria-label="Model LANDAKTOTO Max" data-noproduct="" class="title-tip iphone-17-pro-maxoption2" for="template--17605519376564__main-Model-1">
+                              <label data-option= "no-color"  data-title="BONENGJITU Max" aria-label="Model BONENGJITU Max" data-noproduct="" class="title-tip iphone-17-pro-maxoption2" for="template--17605519376564__main-Model-1">
                               PAITO MACAU 4D
                               </label>
                            </fieldset>
@@ -3174,7 +3174,7 @@
                               <input id="applecare-product-sku" type="hidden" name="properties[applecare-product-sku]" value="SWY42ZX/A" />
                               <input id="applecare-product-handle" type="hidden" name="properties[applecare-product-handle]" value="apple-applecare-for-iphone-17-pro-protect-your-apple-product" />
                               <div class="add-on-product-container1">
-                                 <h3>Manfaat Main Di LANDAKTOTO!</h3>
+                                 <h3>Manfaat Main Di BONENGJITU!</h3>
                                  <div class="container-box-2">
                                     <div class="mobile-care-pdp">
                                        <div class="left care-pdp-img">
@@ -3203,8 +3203,8 @@
                                                       data-modal-dialog-label="Modal"
                                                       data-modal-close-label="Close Modal"
                                                       >
-                                                      <p class="apple-care-modal__heading">Keuntungan Mengikuti Event LANDAKTOTO</p>
-                                                      <div class="media media--transparent ratio" style="--ratio-percent: 100.0%;"><img src="https://anak-cungkok.pages.dev/fotofoto/favib.png" alt="LANDAKTOTO" width="418" height="597" loading="lazy"></div>
+                                                      <p class="apple-care-modal__heading">Keuntungan Mengikuti Event BONENGJITU</p>
+                                                      <div class="media media--transparent ratio" style="--ratio-percent: 100.0%;"><img src="https://anak-cungkok.pages.dev/fotofoto/favib.png" alt="BONENGJITU" width="418" height="597" loading="lazy"></div>
                                                       <div class="apple-care-modal__content">
                                                          <div class="metafield-rich_text_field">
                                                             <ul>
@@ -3216,7 +3216,7 @@
                                                             </ul>
                                                          </div>
                                                          <a class="apple-care-modal__cta" href="https://wvw.pcv.mybluehost.me/" target="_blank" rel="nofollow noopener noreferrer">
-                                                         <span class="apple-care-modal__cta-text">Selengkapnya tentang Protection+ LANDAKTOTO</span>
+                                                         <span class="apple-care-modal__cta-text">Selengkapnya tentang Protection+ BONENGJITU</span>
                                                          <i class="fa-solid fa-angle-right billboard_icon"></i>
                                                          </a>
                                                          <div class="apple-care-modal__tcs">
@@ -3744,7 +3744,7 @@
                               <summary>
                                  <div class="summary__title">
                                     <h2 class="h4 accordion__title">
-                                       Apa itu event berhadiah Paito Macau 4D di LANDAKTOTO?
+                                       Apa itu event berhadiah Paito Macau 4D di BONENGJITU?
                                     </h2>
                                  </div>
                                  <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
@@ -3752,7 +3752,7 @@
                                  </svg>
                               </summary>
                               <div class="accordion__content rte" id="ProductAccordion-popup_custom_VYxbeD-template--17605519376564__main">
-                                 <p>Event ini merupakan program khusus LANDAKTOTO yang menghadirkan paito Macau 4D lengkap beserta prediksi angka untuk membantu analisa pemain.<br/><br/><a href="https://wvw.pcv.mybluehost.me/" target="_blank" rel="nofollow noopener noreferrer">Pelajari Selengkapnya</a></p>
+                                 <p>Event ini merupakan program khusus BONENGJITU yang menghadirkan paito Macau 4D lengkap beserta prediksi angka untuk membantu analisa pemain.<br/><br/><a href="https://wvw.pcv.mybluehost.me/" target="_blank" rel="nofollow noopener noreferrer">Pelajari Selengkapnya</a></p>
                                  <modal-opener class="popup_round_border product-popup-modal__opener no-js-hidden" data-modal="#PopupModal-popup_custom_VYxbeD" ><button id="ProductPopup-popup_custom_VYxbeD" class="active_seemore text-decoration product-popup-modal__button link" type="button" aria-haspopup="dialog">Pelajari Selengkapnya</button></modal-opener>
                                  <a href="https://wvw.pcv.mybluehost.me/" target="_blank" rel="nofollow noopener noreferrer" class="product-popup-modal__button link no-js">Pelajari Selengkapnya</a>
                               </div>
@@ -3763,7 +3763,7 @@
                               <summary>
                                  <div class="summary__title">
                                     <h2 class="h4 accordion__title">
-                                       Kenapa harus Mengikuti Event LANDAKTOTO?
+                                       Kenapa harus Mengikuti Event BONENGJITU?
                                     </h2>
                                  </div>
                                  <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
@@ -3772,7 +3772,7 @@
                               </summary>
                               <div class="accordion__content rte" id="ProductAccordion-popup_custom_6mTgxV-template--17605519376564__main">
                                  <p><h3 data-start="743" data-end="778"><strong data-start="747" data-end="776">1. Paito Macau 4D disusun dari data resmi dan diperbarui secara berkala</strong></h3>
-<p data-start="779" data-end="936">Paito Macau 4D di LANDAKTOTO disajikan berdasarkan data resmi yang dikumpulkan secara konsisten. Pembaruan dilakukan rutin agar pemain selalu mendapatkan informasi terbaru untuk kebutuhan analisa angka harian.</p>
+<p data-start="779" data-end="936">Paito Macau 4D di BONENGJITU disajikan berdasarkan data resmi yang dikumpulkan secara konsisten. Pembaruan dilakukan rutin agar pemain selalu mendapatkan informasi terbaru untuk kebutuhan analisa angka harian.</p>
 <h3 data-start="938" data-end="968"><strong data-start="942" data-end="966">2. Prediksi Toto Macau berbasis statistik untuk membantu analisa angka</strong></h3>
 <p data-start="969" data-end="1118">Prediksi Toto Macau disusun menggunakan pendekatan statistik dari data sebelumnya. Informasi ini bertujuan membantu pemain dalam membaca pola dan tren angka secara lebih terstruktur.</p>
 <h3 data-start="1120" data-end="1162"><strong data-start="1124" data-end="1160">3. Data Toto Macau lengkap dan mudah dibaca oleh semua pemain</strong></h3>
@@ -3780,7 +3780,7 @@
 <h3 data-start="1486" data-end="1526"><strong data-start="1490" data-end="1524">4. Analisa pola angka disajikan sistematis tanpa informasi berlebihan</strong></h3>
 <p data-start="1527" data-end="1656">Setiap analisa angka disusun secara ringkas dan fokus pada poin penting, tanpa tambahan informasi yang tidak relevan, sehingga pemain dapat memahami isi analisa dengan cepat.</p>
 <h3 data-start="1658" data-end="1695"><strong data-start="1662" data-end="1693">5. Dapat diakses kapan saja melalui berbagai perangkat dengan nyaman</strong></h3>
-<p data-start="1696" data-end="1798">Platform LANDAKTOTO dirancang responsif sehingga paito, prediksi, dan data Toto Macau dapat diakses dengan lancar melalui smartphone, tablet, maupun komputer kapan saja.</p><br/><br/><a href="https://wvw.pcv.mybluehost.me/" target="_blank" rel="nofollow noopener noreferrer">Pelajari Selengkapnya</a></p></p>
+<p data-start="1696" data-end="1798">Platform BONENGJITU dirancang responsif sehingga paito, prediksi, dan data Toto Macau dapat diakses dengan lancar melalui smartphone, tablet, maupun komputer kapan saja.</p><br/><br/><a href="https://wvw.pcv.mybluehost.me/" target="_blank" rel="nofollow noopener noreferrer">Pelajari Selengkapnya</a></p></p>
                               </div>
                            </details>
                         </div>
@@ -4105,7 +4105,7 @@
                            srcset="https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450055&width=550 550w,https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450055&width=1100 1100w,https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450055&width=1445 1445w,https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450055&width=1680 1680w,https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450055&width=2048 2048w,https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450055&width=2200 2200w,https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450055&width=2890 2890w,https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450055 4000w"
                            sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
                            src="https://imgkita.com/images/8ff94e39-3dff-4042-b772-f14ccfc1b162.webp?v=1757450055&width=1445"
-                           alt="Landaktoto"
+                           alt="Bonengjitu"
                            loading="lazy"
                            width="1100"
                            height="1100"
@@ -5047,7 +5047,7 @@
   "sku": "7854960410",
   "brand": {
     "@type": "Brand",
-    "name": "LANDAKTOTO"
+    "name": "BONENGJITU"
   },
   "offers": [
     {
@@ -5066,7 +5066,7 @@
 
 
 <style>
-.LANDAKTOTO-fixed-footer {
+.BONENGJITU-fixed-footer {
     display: flex;
     justify-content: space-around;
     position: fixed;
@@ -5094,7 +5094,7 @@
     border-style: dashed;
 }
 
-.LANDAKTOTO-fixed-footer a {
+.BONENGJITU-fixed-footer a {
     flex-basis: calc((100% - 15px*6)/ 5);
     text-decoration: none;
     display: flex;
@@ -5107,11 +5107,11 @@
     font-family: Ubuntu, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 }
 
-.LANDAKTOTO-fixed-footer a:hover {
+.BONENGJITU-fixed-footer a:hover {
     font-weight: bold;
 }
 
-.LANDAKTOTO-fixed-footer .center {
+.BONENGJITU-fixed-footer .center {
     transform: scale(1.5) translateY(-5px);
     background: center no-repeat;
     background-size: contain;
@@ -5119,34 +5119,34 @@
     border-radius: 50%;
 }
 
-.LANDAKTOTO-fixed-footer img {
+.BONENGJITU-fixed-footer img {
     max-width: 20px;
     margin-bottom: 0;
     max-height: 20px;
 }
 </style>
 
-<div class="LANDAKTOTO-fixed-footer">
+<div class="BONENGJITU-fixed-footer">
     <a href="https://wvw.bonengjitu.asia/" rel="nofollow noopener" target="_blank">
-        <img layout="intrinsic" height="20px" width="20px" src="https://anak-cungkok.pages.dev/fotofoto/favib.png" alt="BONUS LANDAKTOTO">
+        <img layout="intrinsic" height="20px" width="20px" src="https://anak-cungkok.pages.dev/fotofoto/favib.png" alt="BONUS BONENGJITU">
         PROMO
     </a>
     <a href="https://wvw.bonengjitu.asia/" rel="nofollow noopener" target="_blank">
-        <img layout="intrinsic" height="20px" width="20px" src="https://anak-cungkok.pages.dev/fotofoto/favib.png" alt="LOGIN LANDAKTOTO">
+        <img layout="intrinsic" height="20px" width="20px" src="https://anak-cungkok.pages.dev/fotofoto/favib.png" alt="LOGIN BONENGJITU">
         LOGIN
     </a>
     <a href="https://wvw.bonengjitu.asia/" rel="nofollow noopener" target="_blank" class="tada">
-        <img layout="intrinsic" height="20px" width="20px" src="https://anak-cungkok.pages.dev/fotofoto/favib.png" alt="DAFTAR LANDAKTOTO">
+        <img layout="intrinsic" height="20px" width="20px" src="https://anak-cungkok.pages.dev/fotofoto/favib.png" alt="DAFTAR BONENGJITU">
         DAFTAR
     </a>
     <a href="https://wvw.bonengjitu.asia/" rel="nofollow noopener" target="_blank">
-        <img layout="intrinsic" height="20px" width="20px" src="https://anak-cungkok.pages.dev/fotofoto/favib.png" alt="WHATSAPP LANDAKTOTO">
+        <img layout="intrinsic" height="20px" width="20px" src="https://anak-cungkok.pages.dev/fotofoto/favib.png" alt="WHATSAPP BONENGJITU">
         WHATSAPP
     </a>
     <a href="https://wvw.bonengjitu.asia/" rel="nofollow noopener" target="_blank"
         class="js_live_chat_link live-chat-link">
         <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px" src="https://anak-cungkok.pages.dev/fotofoto/favib.png"
-            alt="LIVE CHAT LANDAKTOTO">
+            alt="LIVE CHAT BONENGJITU">
         LIVE CHAT
     </a>
 </div>
@@ -5165,8 +5165,8 @@
     "sellingPrice": 259.0,
     "basePrice": 259.0
   },
-  "brand": "LANDAKTOTO",
-  "lob": "LANDAKTOTO MACAU",
+  "brand": "BONENGJITU",
+  "lob": "BONENGJITU MACAU",
   "sub_lob": "BONENGJITU – Akses Utama Bandar Situs Toto Macau & Togel Online 4D"
 }
 </script>
@@ -5482,7 +5482,7 @@
 <div class="product-title-style product__title">
 <h1 style="text-align: center; color: #ffd700;">BONENGJITU – Akses Utama Bandar Situs Toto Macau & Togel Online 4D</h1>
 </div>
-<p style="text-align: center;" data-start="195" data-end="858"><span style="color: #ffd700;"><em><a href="https://wvw.pcv.mybluehost.me/" style="color: #f42702;">LANDAKTOTO</a> menghadirkan akses informasi seputar Bandar Situs Toto Macau & Togel Online 4D dengan tampilan yang dirancang sederhana dan mudah dipahami. Beragam informasi mengenai permainan, data angka, serta referensi terkait Toto Macau disusun secara terstruktur sehingga pengunjung dapat menemukan informasi yang dibutuhkan dengan lebih praktis.</em></span></p>
+<p style="text-align: center;" data-start="195" data-end="858"><span style="color: #ffd700;"><em><a href="https://wvw.pcv.mybluehost.me/" style="color: #f42702;">BONENGJITU</a> menghadirkan akses informasi seputar Bandar Situs Toto Macau & Togel Online 4D dengan tampilan yang dirancang sederhana dan mudah dipahami. Beragam informasi mengenai permainan, data angka, serta referensi terkait Toto Macau disusun secara terstruktur sehingga pengunjung dapat menemukan informasi yang dibutuhkan dengan lebih praktis.</em></span></p>
 <br>
 <p style="text-align: center;" data-start="195" data-end="858"><span style="color: #ffd700;"><em>Melalui konsep <a href="https://wvw.pcv.mybluehost.me/" style="color: #f42702;">Akses Utama Bandar Situs Toto Macau & Togel Online 4D,</a> BONENGJITU berfokus menyediakan pengalaman akses yang nyaman di berbagai perangkat. Informasi yang tersedia dapat menjadi bahan referensi bagi pengguna yang ingin memahami berbagai jenis permainan Toto dan format angka 4D secara lebih terorganisir. BONENGJITU juga mengutamakan penyajian informasi yang jelas dengan navigasi yang mudah digunakan. Pengunjung dapat menjelajahi berbagai bagian situs tanpa tampilan yang berlebihan, sehingga informasi mengenai Toto Macau, Togel Online, dan angka 4D dapat ditemukan secara lebih efisien.</em></span></p>
 <br>
@@ -5675,7 +5675,7 @@
              </div>
 <!-- ========================= FAQ TITLE ========================= -->
 
-<h2 class="cok-faq-title">PERTANYAAN UMUM PEMAIN LANDAKTOTO</h2>
+<h2 class="cok-faq-title">PERTANYAAN UMUM PEMAIN BONENGJITU</h2>
 
 <!-- ========================= FAQ LIST ========================= -->
 
@@ -6040,7 +6040,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                               href="https://wvw.pcv.mybluehost.me/" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
-                           LANDAKTOTO
+                           BONENGJITU
                            </a>
                         </li>
                         <li>
@@ -6434,7 +6434,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                               href="https://wvw.pcv.mybluehost.me/" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
-                           LANDAKTOTO
+                           BONENGJITU
                            </a>
                         </li>
                      </ul>
@@ -6780,7 +6780,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                            </div>
                            <div class="copyrightCss footer__copyright caption">
                               <span class="copyright__content"
-                                 >&copy; 2025, <a href="https://wvw.pcv.mybluehost.me/" target="_blank" title="">LANDAKTOTO</a></span>
+                                 >&copy; 2025, <a href="https://wvw.pcv.mybluehost.me/" target="_blank" title="">BONENGJITU</a></span>
                               <span class="copyright__content"><a target="_blank" rel="nofollow noopener noreferrer" href="https://www.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore">Powered by Shopify</a></span>
                            </div>
                         </div>
