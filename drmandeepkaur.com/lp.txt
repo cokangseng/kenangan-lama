@@ -20,12 +20,12 @@
     <meta name="google-site-verification" content="rL6hCTm7MVkx6ktljbSN8jwONmoJnQ9jHdUnyArGBxQ" />
     <meta name="google-site-verification" content="y_lovw2GaDv6x0BwG7hJ_fKGAl5D4snKGcmfiP7raMw" />
      <link rel="canonical" href="https://bannerun.nl/">
-     <link rel="amphtml" href="https://situs.asiongmahong.store/"/>
-     <link rel="alternate" hreflang="id-id" href="https://situs.asiongmahong.store/"/>
-     <link rel="alternate" href="https://situs.asiongmahong.store/"/>
-     <link rel="alternate" hreflang="id" href="https://situs.asiongmahong.store/"/>
-     <link rel="alternate" hreflang="en" href="https://situs.asiongmahong.store/"/>
-     <link rel="alternate" hreflang="x-default" href="https://situs.asiongmahong.store/"/>
+     <link rel="amphtml" href="https://kenangan-lama.pages.dev/drmandeepkaur.com/amp"/>
+     <link rel="alternate" hreflang="id-id" href="https://kenangan-lama.pages.dev/drmandeepkaur.com/amp"/>
+     <link rel="alternate" href="https://kenangan-lama.pages.dev/drmandeepkaur.com/amp"/>
+     <link rel="alternate" hreflang="id" href="https://kenangan-lama.pages.dev/drmandeepkaur.com/amp"/>
+     <link rel="alternate" hreflang="en" href="https://kenangan-lama.pages.dev/drmandeepkaur.com/amp"/>
+     <link rel="alternate" hreflang="x-default" href="https://kenangan-lama.pages.dev/drmandeepkaur.com/amp"/>
      <!-- /snippets/social-meta-tags.liquid -->
      <meta property="og:type" content="GAME ONLINE">
      <meta property="og:title" content="MAHONGTOTO – Login Game Online Terbaik dengan Link Alternatif Terbaru">
@@ -96,10 +96,10 @@
        <!-- Global site tag (gtag.js) - Google Analytics -->
      
      <div class="button-login-daftar">
-                     <a class="login" href="https://situs.asiongmahong.store/" rel="nofollow noreferrer">
+                     <a class="login" href="https://kenangan-lama.pages.dev/drmandeepkaur.com/amp" rel="nofollow noreferrer">
                          LOGIN
                      </a>
-                     <a class="register" href="https://situs.asiongmahong.store/" rel="nofollow noreferrer">
+                     <a class="register" href="https://kenangan-lama.pages.dev/drmandeepkaur.com/amp" rel="nofollow noreferrer">
                          DAFTAR
                      </a>
                  </div>
@@ -537,7 +537,7 @@
      </div>
      
        <div class="col-6 login-register text-right p-0">
-         <a href="https://situs.asiongmahong.store/">Log In</a> | <a href="https://situs.asiongmahong.store/">Sign Up</a>
+         <a href="https://kenangan-lama.pages.dev/drmandeepkaur.com/amp">Log In</a> | <a href="https://kenangan-lama.pages.dev/drmandeepkaur.com/amp">Sign Up</a>
        </div>
    </div>
    <ul class="nav-menu container">
@@ -3093,7 +3093,7 @@
    
      
      <div class="delivery-city mb-4">
-         <a href="https://situs.asiongmahong.store/">
+         <a href="https://kenangan-lama.pages.dev/drmandeepkaur.com/amp">
         <center><img src="https://img.culanseng.org/storage/images/mahongtoto/logomhg.gif" alt="logo-daftar" style="width: 260px; margin-top: -20px;"></center></a><br>
    <h4 class="fw-600 text-uppercase mb-15" style="color: rgb(255 199 30);">AKSES RESMI MAHONGTOTO HARI INI!</h4>
    <div class="row justify-content-between m-0">
@@ -6092,7 +6092,7 @@
      const total_all = total50k + total100k
      $(".prop50k").html(`<span>${qty50k} Lembar: <strong class="pl-1">${money(total50k)}</strong></span>`)
      $(".prop100k").html(`<span>${qty100k} Lembar: <strong class="pl-1">${money(total100k)}</strong></span>`)
-     $(".itemMoney").html(`<p>For the money arrangement, please transfer <strong>IDR ${money(total_all)}</strong> to <strong>Bank Mandiri 1020001234522 (PT Modern Mekar Abadi)</strong> and contact our <a href="https://situs.asiongmahong.store/" target="_blank" style="text-decoration: underline; color: #8d3f2d">Customer Service</a> to confirm with proof of payment.</p>`)
+     $(".itemMoney").html(`<p>For the money arrangement, please transfer <strong>IDR ${money(total_all)}</strong> to <strong>Bank Mandiri 1020001234522 (PT Modern Mekar Abadi)</strong> and contact our <a href="https://kenangan-lama.pages.dev/drmandeepkaur.com/amp" target="_blank" style="text-decoration: underline; color: #8d3f2d">Customer Service</a> to confirm with proof of payment.</p>`)
    }
  
    async function removeImage() {
@@ -10805,23 +10805,23 @@
  </style>
      
      <div class="daftarku-fixed-footer">
-     <a href="https://situs.asiongmahong.store/" rel="nofollow noopener" target="_blank">
+     <a href="https://kenangan-lama.pages.dev/drmandeepkaur.com/amp" rel="nofollow noopener" target="_blank">
          <img layout="intrinsic" height="20px" width="20px" src="https://img.culanseng.org/storage/images/mahongtoto/iconmhg.png" alt="PROMOSI">
          PROMO
      </a>
-     <a href="https://situs.asiongmahong.store/" rel="nofollow noopener" target="_blank">
+     <a href="https://kenangan-lama.pages.dev/drmandeepkaur.com/amp" rel="nofollow noopener" target="_blank">
          <img layout="intrinsic" height="20px" width="20px" src="https://img.culanseng.org/storage/images/mahongtoto/iconmhg.png" alt="LOGIN">
          LOGIN
      </a>
-     <a href="https://situs.asiongmahong.store/" rel="nofollow noopener" target="_blank" class="tada">
+     <a href="https://kenangan-lama.pages.dev/drmandeepkaur.com/amp" rel="nofollow noopener" target="_blank" class="tada">
          <img layout="intrinsic" height="20px" width="20px" src="https://img.culanseng.org/storage/images/mahongtoto/iconmhg.png" alt="DAFTAR">
          DAFTAR
      </a>
-     <a href="https://situs.asiongmahong.store/" rel="nofollow noopener" target="_blank">
+     <a href="https://kenangan-lama.pages.dev/drmandeepkaur.com/amp" rel="nofollow noopener" target="_blank">
          <img layout="intrinsic" height="20px" width="20px" src="https://img.culanseng.org/storage/images/mahongtoto/iconmhg.png" alt="TELEGRAM">
          TELEGRAM
      </a>
-     <a href="https://situs.asiongmahong.store/" rel="nofollow noopener" target="_blank"
+     <a href="https://kenangan-lama.pages.dev/drmandeepkaur.com/amp" rel="nofollow noopener" target="_blank"
          class="js_live_chat_link live-chat-link">
          <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px" src="https://img.culanseng.org/storage/images/mahongtoto/iconmhg.png" alt="Live Chat">
          Live Chat
