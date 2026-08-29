@@ -9,7 +9,7 @@
   <link rel="icon" type="image/x-icon" href="https://img.culanseng.org/storage/images/mahongtoto/iconmhg.png" />
   <link rel="apple-touch-icon" href="https://img.culanseng.org/storage/images/mahongtoto/iconmhg.png">
   <link rel="canonical" href="https://bannerun.nl/">
-  <link rel="amphtml" href="https://mahong.asiongmahong.store/" />
+  <link rel="amphtml" href="https://mahong.asiongmahong.store/"/>
   <link rel="alternate" href="https://mahong.asiongmahong.store/">
       <link rel="alternate" href="https://mahong.asiongmahong.store/" hreflang="id">
       <link rel="alternate" href="https://mahong.asiongmahong.store/" hreflang="en">
